@@ -106,3 +106,7 @@ This Java program effectively demonstrates multi-threaded socket programming and
 Event Handling: Button clicks and Enter key trigger sending messages.
 
 TCP Networking: Uses sockets for reliable message transfer.
+
+## OUTPUT ##
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/648c9e25-0e95-4ced-96d1-76c53a865c97" />
